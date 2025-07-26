@@ -40,7 +40,7 @@
 ### 📌 Featured Projects
 
 - 🔗 **[SwiftBuy](https://github.com/gargasaha/EcommerceSite)** – Full-featured E-commerce platform with admin panel, authentication & product management (ASP.NET Web Form, C#)
-- 🔗 **[Friendlify Chat Server](https://github.com/gargasaha/FinalYearProject)** – Facebook-like chat app with profile, media sharing, and event updates
+- 🔗 **[Friendlify Chat Server](friendlify.somee.com/signup.aspx)** – Facebook-like chat app with profile, media sharing, and event updates
 - 🔗 **[Live Feedback App](https://bcafeedback.somee.com/)** – Real-time feedback app used in college exhibitions (200+ users)
 
 ---
