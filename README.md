@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Garga Saha</h1>
-<h3 align="center">C# Backend Developer | ASP.NET Core Enthusiast | Passionate Problem Solver</h3>
+<h3 align="center">Angular | NodeJS Developer | MongoDB | MySql</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gargasaha&label=Profile%20views&color=0e75b6&style=flat" alt="gargasaha" />
